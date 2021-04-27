@@ -1,2 +1,3 @@
-# Yok-Farm-Provider-Service
-Microservice de gestion des fournisseurs de l'ecosystem YokFarm Management
+# Yok Farm - Nama Farm Management
+
+ñama = animal en Duala
